@@ -8,7 +8,7 @@ HPP is the proprietary logic engine for the **Heofon** ecosystem, bridging the g
 
 ---
 
-### 💻 Hello World in HPP
+### Hello World in HPP
 ```hpp
 <hpp-script>
 <pro>
