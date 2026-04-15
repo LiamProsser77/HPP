@@ -4,19 +4,20 @@
 
 # Heofon Programming Platform (HPP)
 
-HPP is the proprietary logic engine for the **Heofon** ecosystem, bridging the gap between structural web design and high-level scripting. It serves as the primary logic provider for all Heofon-based applications and is designed to integrate seamlessly with the Heofon Global Search network.
+HPP is the proprietary logic engine for the **Heofon** ecosystem, bridging the gap between structural web design and high-level scripting. It serves as the primary logic provider for all Heofon-based applications.
 
-Official Website: https://hpp-com.base44.app/
+HPP is **fully open source and free to use**. We prioritize user privacy: the platform **does not collect user information** and **requires no login** to access or develop with our tools.
+
+Official Website: https://base44.app
 
 ---
 
-### Installation and Access
-To begin developing with the Heofon Programming Platform, you can access the environment through the official web portal or download the local development tools.
+### Getting Started
+To begin developing with the Heofon Programming Platform, you can access the environment directly through our web portal.
 
-1. Visit the official HPP portal: https://hpp-com.base44.app/
-2. Log in to your Heofon Developer account.
-3. Use the integrated HPP Editor to begin writing your professional scripts.
-4. For local integration, include the HPP runtime library in your web project directory to interpret <hpp-script> containers.
+* **No Login Required:** Simply visit the portal and start coding immediately.
+* **Privacy Focused:** Your data and code remain your own; we do not track or store personal information.
+* **Direct Access:** Visit the official HPP portal to use the integrated editor: https://base44.app
 
 ---
 
