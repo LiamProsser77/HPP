@@ -12,6 +12,8 @@ Official Website: https://hpp-com.base44.app/
 
 Learn HPP at: https://code-pilgrim-com.zite.so/
 
+Open HPP sandbox on Google Sites: https://sites.google.com/kimberly.k12.wi.us/hpp-sandbox-com/untitled-page
+
 ---
 
 ### Getting Started
