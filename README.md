@@ -20,7 +20,14 @@ To begin developing with the Heofon Programming Platform, you can access the env
 * **Direct Access:** Visit the official HPP portal to use the integrated editor: https://hpp-com.base44.app/
 
 ---
+### Variables
+<hpp-script>
+<pro>
 
+/// [Print: "Hello World!"]
+
+<script/>
+<hpp>
 
 ### Hello World in HPP
 The standard entry point for any HPP script using the professional logic block.
