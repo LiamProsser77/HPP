@@ -21,20 +21,7 @@ To begin developing with the Heofon Programming Platform, you can access the env
 
 ---
 ### Variables
-<hpp-script>
-
-  <pro>
-
-
-/// [Set: name = "Heofon"]
-
-/// [Print: "Hello, " + name]
-
-
-<script/>
-
-<hpp>
-
+You can find the Variables on out web portal on home button
 
 ### Hello World in HPP
 The standard entry point for any HPP script using the professional logic block.
