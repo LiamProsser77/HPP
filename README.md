@@ -24,10 +24,12 @@ To begin developing with the Heofon Programming Platform, you can access the env
 <hpp-script>
 <pro>
 
-/// [Print: "Hello World!"]
+/// [Set: name = "Heofon"]
+/// [Print: "Hello, " + name]
 
 <script/>
 <hpp>
+
 
 ### Hello World in HPP
 The standard entry point for any HPP script using the professional logic block.
