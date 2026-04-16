@@ -22,12 +22,17 @@ To begin developing with the Heofon Programming Platform, you can access the env
 ---
 ### Variables
 <hpp-script>
-<pro>
+
+  <pro>
+
 
 /// [Set: name = "Heofon"]
+
 /// [Print: "Hello, " + name]
 
+
 <script/>
+
 <hpp>
 
 
