@@ -21,7 +21,7 @@ To begin developing with the Heofon Programming Platform, you can access the env
 
 * **No Login Required:** Simply visit the portal and start coding immediately.
 * **Privacy Focused:** Your data and code remain your own; we do not track or store personal information.
-* **Direct Access:** Visit the official HPP portal to use the integrated editor: https://hpp-com.base44.app/
+* **Direct Access:** Visit the official HPP portal to use the integrated editor: https://hpp-com.zite.so/
 
 ---
 ### Variables
