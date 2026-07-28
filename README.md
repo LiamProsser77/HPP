@@ -14,15 +14,15 @@ Official Website: https://rook-lang.zite.so/
 ---
 
 ### Getting Started
-To begin developing with Rook, you can access the environment directly through our web portal.
+To begin developing with Lanscript, you can access the environment directly through our web portal.
 
 * **No Login Required:** Simply visit the portal and start coding immediately.
 * **Privacy Focused:** Your data and code remain your own; we do not track or store personal information.
-* **Direct Access:** Visit the official Rook portal to use the integrated editor: https://rook-lang.zite.so/
+* **Direct Access:** Visit the official Lanscript portal to use the integrated editor: https://rook-lang.zite.so/
 ---
 ### Variables
 ```
-<lanscript> means you are starting the line with Rook
+<lanscript> means you are starting the line with Lanscript
 <pro> means everything in the script is part of the program
 <start> means you are starting the program
 <end> means you are ending the program
@@ -38,7 +38,7 @@ age. means you set the age of a person or website
 ```
 ### What Lanscript is not
 - Lanscript is not a hard programming language, it is made easy for new coders and website creators
-- Lanscript does not take info from you like in JavaScript or Typescript, Rook is made private to you so you can make things safe for users for websites in Rook
+- Lanscript does not take info from you like in JavaScript or Typescript, Lanscript is made private to you so you can make things safe for users for websites in Lanscript
 
 ### Hello World in Lanscript
 In every script of Lanscript you have to have yes.put. in it
