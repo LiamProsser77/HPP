@@ -1,3 +1,6 @@
+body {
+    background: red !important;
+}
 * {
     box-sizing: border-box;
     font-family: Arial, sans-serif;
