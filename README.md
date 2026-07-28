@@ -8,7 +8,7 @@ Lanscript is the proprietary logic engine for the **Heofon** ecosystem, bridging
 
 Lanscript is **fully open source and free to use**. We prioritize user privacy: the platform **does not collect user information** and **requires no login** to access or develop with our tools.
 
-Official Website: https://rook-lang.zite.so/
+Official Website: https://liamprosser77.github.io/Lanscript-Programming-Language/
 
 
 ---
