@@ -18,7 +18,7 @@ To begin developing with Lanscript, you can access the environment directly thro
 
 * **No Login Required:** Simply visit the portal and start coding immediately.
 * **Privacy Focused:** Your data and code remain your own; we do not track or store personal information.
-* **Direct Access:** Visit the official Lanscript portal to use the integrated editor: https://rook-lang.zite.so/
+* **Direct Access:** Visit the official Lanscript portal to use the integrated editor: https://liamprosser77.github.io/Lanscript-Programming-Language/
 ---
 ### Variables
 ```
