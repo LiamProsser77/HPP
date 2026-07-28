@@ -8,7 +8,7 @@ Lanscript is the proprietary logic engine for the **Heofon** ecosystem, bridging
 
 Lanscript is **fully open source and free to use**. We prioritize user privacy: the platform **does not collect user information** and **requires no login** to access or develop with our tools.
 
-Official Website: https://liamprosser77.github.io/Lanscript-Programming-Language/
+Official Website:  <a href="https://liamprosser77.github.io/Lanscript-Programming-Language/">Lanscript Website</a></li>
 
 
 ---
@@ -18,7 +18,7 @@ To begin developing with Lanscript, you can access the environment directly thro
 
 * **No Login Required:** Simply visit the portal and start coding immediately.
 * **Privacy Focused:** Your data and code remain your own; we do not track or store personal information.
-* **Direct Access:** Visit the official Lanscript portal to use the integrated editor: https://liamprosser77.github.io/Lanscript-Programming-Language/
+* **Direct Access:** Visit the official Lanscript portal to use the integrated editor:  <a href="https://liamprosser77.github.io/Lanscript-Programming-Language/playground.html">Lanscript Playground</a></li>
 ---
 ### Variables
 ```
