@@ -15,31 +15,49 @@ body {
 
 header {
     background: #3cff5a;
-    height: 90px;
+    height: 75px;
+
     display: flex;
     align-items: center;
-    padding: 10px 40px;
-    gap: 40px;
+
+    padding: 10px 25px;
 }
 
 
 .logo {
-    width: 40px;
-    height: 50px;
+    width: 45px;
+    height: 45px;
+
     object-fit: contain;
+
+    margin-right: 15px;
+}
+
+
+header h3 {
+    margin: 0;
+
+    font-size: 28px;
+    color: black;
 }
 
 
 nav {
+    margin-left: auto;
+
     display: flex;
+
     gap: 25px;
 }
 
 
 nav a {
     color: black;
+
     text-decoration: none;
-    font-size: 18px;
+
+    font-size: 17px;
+
     font-weight: bold;
 }
 
@@ -53,25 +71,32 @@ nav a:hover {
 /* Hero */
 
 .hero {
+
     background: linear-gradient(
-        180deg,
         #3cff5a,
         white
     );
 
     text-align: center;
+
     padding: 90px 20px;
+
 }
 
 
 .hero h1 {
+
     font-size: 70px;
+
     margin: 10px;
+
 }
 
 
 .hero p {
+
     font-size: 24px;
+
 }
 
 
@@ -79,26 +104,39 @@ nav a:hover {
 /* Buttons */
 
 .button {
+
     display: inline-block;
+
     margin-top: 25px;
+
     padding: 15px 35px;
 
+
     background: #3cff5a;
+
     color: black;
 
+
     border-radius: 12px;
+
+    border: 2px solid black;
+
+
     text-decoration: none;
 
     font-weight: bold;
-    border: 2px solid black;
 
     cursor: pointer;
+
 }
 
 
 .button:hover {
+
     background: black;
+
     color: white;
+
 }
 
 
@@ -106,28 +144,37 @@ nav a:hover {
 /* Sections */
 
 section {
+
     padding: 50px 10%;
+
     text-align: center;
+
 }
 
 
 h2 {
+
     background: #3cff5a;
 
     color: black;
 
-    padding: 15px;
+
+    padding: 15px 30px;
+
 
     border-radius: 10px;
 
+
     display: inline-block;
+
 }
 
 
 
-/* Cards */
+/* Feature Cards */
 
 .cards {
+
     display: flex;
 
     justify-content: center;
@@ -143,11 +190,15 @@ h2 {
 
     background: #f2f2f2;
 
+
     padding: 25px;
+
 
     width: 280px;
 
+
     border-radius: 15px;
+
 
     border: 2px solid #3cff5a;
 
@@ -155,7 +206,9 @@ h2 {
 
 
 .card h3 {
-    color: #0b8f20;
+
+    color: #168f2b;
+
 }
 
 
@@ -169,17 +222,24 @@ textarea {
 
     height: 300px;
 
+
     background: #111;
+
 
     color: #3cff5a;
 
+
     padding: 20px;
+
 
     font-size: 18px;
 
+
     border-radius: 15px;
 
+
     border: 3px solid #3cff5a;
+
 
     font-family: monospace;
 
@@ -191,19 +251,27 @@ textarea {
 
     margin: 20px auto;
 
+
     width: 90%;
+
 
     min-height: 80px;
 
+
     background: black;
+
 
     color: white;
 
+
     padding: 20px;
+
 
     border-radius: 10px;
 
+
     text-align: left;
+
 
     font-family: monospace;
 
@@ -211,26 +279,33 @@ textarea {
 
 
 
-/* Documentation */
+/* Variables Documentation */
+
 
 .docs {
 
     background: #f5f5f5;
 
+
     padding: 30px;
 
+
     border-radius: 15px;
+
 
     text-align: left;
 
 }
 
 
+
 .docs p {
 
     font-size: 18px;
 
+
     padding: 10px;
+
 
     border-bottom: 1px solid #ddd;
 
@@ -240,7 +315,7 @@ textarea {
 
 .docs b {
 
-    color: #0b8f20;
+    color: #168f2b;
 
 }
 
@@ -248,13 +323,17 @@ textarea {
 
 /* Footer */
 
+
 footer {
 
     background: #3cff5a;
 
+
     padding: 25px;
 
+
     text-align: center;
+
 
     font-weight: bold;
 
