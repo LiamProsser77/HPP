@@ -53,7 +53,7 @@ yes.put. Hello World
 ### Create a file in Lanscript
 To create a file in Lanscript you have to have your name at the start like "helloworld" and then add .ls at the end for example:
 ```
-helloworld.lst
+helloworld.lans
 
 
 
