@@ -1,20 +1,26 @@
-// LanScript Website JavaScript
+function runLanScript() {
 
-console.log("Welcome to LanScript!");
+    let code = document.getElementById("code").value;
 
-function copyCode() {
-    const code = document.getElementById("code-example").innerText;
+    let output = document.getElementById("output");
 
-    navigator.clipboard.writeText(code);
 
-    const button = document.getElementById("copy-button");
-    button.innerText = "Copied!";
+    // Find yes.put. text
 
-    setTimeout(() => {
-        button.innerText = "Copy Code";
-    }, 2000);
-}
+    let putMatch = code.match(/yes\.put\.\s*"([^"]*)"/);
 
-function showMessage() {
-    alert("Welcome to LanScript! Start building with simple code.");
+
+    if (putMatch) {
+
+        output.innerHTML = putMatch[1];
+
+    } 
+    
+    else {
+
+        output.innerHTML =
+        "No output found. Try using yes.put.";
+
+    }
+
 }
