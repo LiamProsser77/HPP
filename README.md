@@ -4,7 +4,7 @@
 
 # Lanscript Programming Language
 
-Lanscript is the proprietary logic engine for the **Heofon** ecosystem, bridging the gap between structural web design and high-level scripting. It serves as the primary logic provider for all Heofon-based applications.
+Lanscript is the proprietary logic engine for bridging the gap between structural web design and high-level scripting.
 
 Lanscript is **fully open source and free to use**. We prioritize user privacy: the platform **does not collect user information** and **requires no login** to access or develop with our tools.
 
@@ -51,7 +51,7 @@ yes.put. Hello World
 <script#>
 ```
 ### Create a file in Lanscript
-To create a file in Lanscript you have to have your name at the start like "helloworld" and then add .ls at the end for example:
+To create a file in Lanscript you have to have your name at the start like "helloworld" and then add .las at the end for example:
 ```
 helloworld.lans
 
