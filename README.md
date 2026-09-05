@@ -51,7 +51,7 @@ yes.put. Hello World
 <script#>
 ```
 ### Create a file in Lanscript
-To create a file in Lanscript you have to have your name at the start like "helloworld" and then add .las at the end for example:
+To create a file in Lanscript you have to have your name at the start like "helloworld" and then add .lans at the end for example:
 ```
 helloworld.lans
 
